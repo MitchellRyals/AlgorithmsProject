@@ -1,3 +1,5 @@
+A program for my algorithms & data structures final. It has a java file with many errors and one without errors. When executed, it asks which file you would like to check for missing symbols like ({[/ and then uses a stack to see if any are missing from the file. My code is under src/Main.java
+
 To run the program, navigate to this folder in the command prompt.
 
 Then type:
